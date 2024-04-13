@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-image {
+    Background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    color: blue;
+    Font-family: serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color: grey;
+    Font-family: serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.button {
+    Font-family: Monoton;
+    height: 35px;
+    width: 120px;
+    Background-color: #19a4bf;
+    color: white;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.favourite-place-background-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+
+}
+
+.favourite-place-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 25px;
+}
+
+.favourite-place-card-container {
+    padding: 10px;
+}
+
+
+.favourite-place-card-item {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.favourite-place-card-heading {
+    font-family: roboto;
+    color: #0f0e46;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    font-family: roboto;
+    color: #6c6b70;
+    font-size: 15px;
+}
+
+.favourite-place-card-image {
+    height: 100px;
+    width: 80px;
+}
+
+.detailed-view-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.detailed-view-heading {
+    font-family: Roboto;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.detailed-view-card {
+    margin: 10px;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.detailed-view-card-text {
+    padding: 10px;
+}
+
+.detailed-view-card-heading {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    color: #0f0e46;
+}
+
+.detailed-view-card-description {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #6c6b70;
+}
